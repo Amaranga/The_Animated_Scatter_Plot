@@ -4,7 +4,8 @@
 ## Description:
 This project is about intuitively understanding the Gapminder data with the help of animated scatter plots. It starts with the importing of the Gapminder data files and later  the data is inspected and wrangled with the help of Pandas functions for intuitive vizuaization.
 
-#
+<img src= "results/gapminder.gif">
+
 ## Badges
 
 
